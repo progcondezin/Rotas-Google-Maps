@@ -15,5 +15,5 @@ https://docs.python.org/3/library/time.html
 https://pandas.pydata.org/
 
 **Tutorial**
-1- Verificar qual é a versão do chorme (no navegador, clique em opções > Ajuda > Sobre o google chrome
+1- Verificar qual é a versão do chorme (no navegador, clique em opções > Ajuda > Sobre o google chrome) <br>
 2- Para que o código funcione é necessário a atualização do webdrive do google chorme https://chromedriver.chromium.org/downloads
